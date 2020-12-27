@@ -66,4 +66,4 @@ client.on("message", async message => {
   };
 });
 
-client.login(Token).catch(() => console.log(`Invalid Token Is Provided - Please Give Valid Token!`));
+client.login(NzkyODg5MDczODI3MDUzNTcw.X-kRfg.IKwjGY4YQOpiKASIGxd3HQI5rDQ).catch(() => console.log(`Invalid Token Is Provided - Please Give Valid Token!`));
